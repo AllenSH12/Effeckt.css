@@ -37,6 +37,6 @@ var Effeckt = {
     else
       return client;
   },
-}
+};
 
 Effeckt.init();
